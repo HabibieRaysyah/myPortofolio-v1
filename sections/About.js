@@ -32,9 +32,9 @@ function SkillBar({ name, level, delay }) {
 }
 
 const highlights = [
-  { icon: Code2, label: 'Frontend', value: '5+ Years', desc: 'React, Next.js, Vue' },
-  { icon: Server, label: 'Backend', value: '3+ Years', desc: 'Node.js, Python, APIs' },
-  { icon: Palette, label: 'Design', value: '4+ Years', desc: 'Figma, UI/UX Principles' },
+  { icon: Code2, label: 'Frontend', value: '0 Years', desc: 'React, Next.js, Vue' },
+  { icon: Server, label: 'Backend', value: '0 Years', desc: 'Node.js, Python, APIs' },
+  { icon: Palette, label: 'Design', value: '0 Years', desc: 'Figma, UI/UX Principles' },
 ]
 
 export default function About() {
